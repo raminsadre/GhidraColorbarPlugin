@@ -13,7 +13,7 @@ location of colored lines. The main differences between the existing Marker over
 extension are:
 - This extension uses fine lines of 1px thick instead of rectangles to indicate the locations of colored lines. That makes it easier to identify lines close to each other.
 - The color indicators in the overview are identical to the colors of the lines. The existing Marker overview always uses the same color, independently of the color of the line.
-- Closeby lines with different colors that are close to each other are shown as "half-filled" lines in the overview (this is only works for two colors). See the picture below.
+- Lines with different colors that are close to each other are shown as "half-filled" lines in the overview (this is only works for two colors). See the picture below.
 
 ![alt text](docs/twocolors.png)
 
