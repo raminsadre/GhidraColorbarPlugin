@@ -17,7 +17,9 @@ extension are:
 
 ![alt text](docs/twocolors.png)
 
-As usual, this software comes without any warranty or guarantees. Use it at your own risk.
+A compiled version ready for deployment can be found [in the dist directory](dist).
+
+As usual, this software comes without any warranty or guarantees. It is experimental and incomplete. Use it at your own risk.
 
 # Technical notes
 
